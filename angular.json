@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pruebaHeroku"
+    }
+  },
+  "defaultProject": "pruebaHeroku",
+  "cli": {
+    "analytics": false
+  }
 }
