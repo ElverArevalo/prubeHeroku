@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "pruebaHeroku": {
+    "prueba-heroku": {
       "projectType": "application",
       "schematics": {},
       "root": "",
